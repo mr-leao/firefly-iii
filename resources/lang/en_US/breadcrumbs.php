@@ -24,7 +24,7 @@ declare(strict_types=1);
 
 return [
     'home'                   => 'Home',
-    'subscriptions'          => 'Subscriptions',
+    'subscriptions'          => 'Recurring',
     'title_expenses'         => 'Expenses',
     'title_withdrawal'       => 'Expenses',
     'title_revenue'          => 'Revenue / income',
@@ -40,7 +40,7 @@ return [
     'accounts'               => 'Accounts',
     'changePassword'         => 'Change your password',
     'change_email'           => 'Change your email address',
-    'bills'                  => 'Subscriptions',
+    'bills'                  => 'Recurring',
     'newBill'                => 'New subscription',
     'edit_bill'              => 'Edit subscription ":name"',
     'delete_bill'            => 'Delete subscription ":name"',
